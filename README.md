@@ -1,1 +1,1 @@
-# ElectrodynamicsIntroduction
+# ElectrodynamicsIntroductionGriffiths
